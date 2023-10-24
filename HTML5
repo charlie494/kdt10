@@ -1,0 +1,21 @@
+<hr/>
+
+<!--h1~6:Heading tag-->
+<h1>h1</h1>
+
+<!--p:본문-->
+<p>p태그
+
+<!--br:줄바꿈 태그<>
+<@--
+
+<!--문자 꾸미기 태그--!>
+<b>b태그: 두껍게</b></br>
+<strong>strong태그: 두껍게, semantic(의미론적인 태그)</strong><br>
+<i>태그: 이탤릭 글씨</i></br>
+<em>em태그:강조, 기울여서</em></br>
+<del>del 태그, 중간줄</del></br>
+<u>u태그:밑줄</u>
+</body>
+
+</html>
